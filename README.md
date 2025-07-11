@@ -1,5 +1,5 @@
 # eks-gitops-argocd
-
+###
 This repository walks through implementing GitOps with GitHub Actions and ArgoCD to deploy applications via helm to EKS
 
 ## High Level Architecture
